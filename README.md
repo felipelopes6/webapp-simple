@@ -16,7 +16,7 @@ $ bower install
 $ gulp serve
 ```
 
-Works in ```:8080``` port
+Works in ```:7000``` port, but you can change this in ```gulpfile.js```
 
 > **Note:**
 
