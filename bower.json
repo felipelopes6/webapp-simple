@@ -1,13 +1,12 @@
 {
-  "name": "project-structure",
+  "name": "webapp-simple",
+  "homepage": "https://github.com/felipel90/webapp-simple",
   "authors": [
     "Felipe Lopes <felipe.webdev@gmail.com>"
   ],
   "description": "",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
