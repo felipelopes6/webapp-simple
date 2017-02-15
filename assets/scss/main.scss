@@ -1,0 +1,21 @@
+// =============================================================================
+// Main SCSS Template
+// =============================================================================
+
+// Core Template
+@import "compass/css3";
+@import "modules/variables";
+@import "modules/mixins";
+
+// Vendor
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Modules
+@import "modules/colors";
+@import "modules/utilities";
+@import "modules/breakpoints";
+
+// Partials
+@import "partials/index/header";
+@import "partials/index/grid";
+@import "partials/index/example";

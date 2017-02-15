@@ -1,0 +1,16 @@
+.app-testGrid{
+  padding: 30px 0;
+  .app-testGrid--title{
+    font-size: 20px;
+    color: $dark-blue;
+    padding-bottom: 20px;
+  }
+  .app-testGrid--groupExample{
+    .groupExample{
+      background: $silver;
+      color: $dark-blue;
+      border: 1px solid $gray-2;
+      padding: 15px 5px;
+    }
+  }
+}

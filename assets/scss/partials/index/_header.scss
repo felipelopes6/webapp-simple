@@ -1,0 +1,18 @@
+.app-header {
+  background: $gray-1;
+  padding: 10px 0;
+
+  .app-header--nav {
+    ul {
+      margin: 0;
+
+      li {
+        padding-right: 15px;
+        a {
+          color: $dark-blue;
+          font-size: 20px;
+        }
+      }
+    }
+  }
+}
